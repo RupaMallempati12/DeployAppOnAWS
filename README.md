@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
@@ -70,3 +71,6 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+=======
+# DeployAppOnAWS
+>>>>>>> ce6f25ccd1eda78e88bdac9d7d9b9e993045924a
